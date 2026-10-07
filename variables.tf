@@ -13,6 +13,6 @@ variable "instance_type" {
 
 variable "instance_name" {
   description = "EC2 instance name"
-  default     = "Terraform-Demo-EC2"
+  default     = "Terraform-Auto-Demo"
 }
 
