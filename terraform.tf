@@ -4,10 +4,10 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "Ingram-demo-lab"
 
     workspaces {
-      name = "learn-terraform"
+      name = "terramino-app"
     }
   }
 
